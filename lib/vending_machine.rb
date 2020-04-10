@@ -1,4 +1,4 @@
-class VM
+class VendingMachine
   require_relative 'drink'
 
   attr_reader :total, :receivable_money
